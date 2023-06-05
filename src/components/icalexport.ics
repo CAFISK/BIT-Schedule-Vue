@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2021051708.02//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:3847227@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090421Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230502T010400Z
+DTEND:20230502T010400Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3847232@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090457Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230503T010400Z
+DTEND:20230503T010400Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3851203@lexue.bit.edu.cn
+SUMMARY:Lab. 5：语法分析实验 已到期
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230424T021809Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230504T160000Z
+DTEND:20230504T160000Z
+CATEGORIES:编译原理与设计2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3847228@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090429Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230509T010400Z
+DTEND:20230509T010400Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3846763@lexue.bit.edu.cn
+SUMMARY:自下而上分析方法基本概念小测验 关闭
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230509T101546Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230509T155900Z
+DTEND:20230509T155900Z
+CATEGORIES:编译原理与设计2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3851712@lexue.bit.edu.cn
+SUMMARY:作业4—自下而上的语法分析作业 已到期
+DESCRIPTION:作业内容：附件文件：作业4.docx；\n\n提交Word文档或pdf文档；\n\n文档命名：学号姓名\,比如：1120201
+	111李明.docx或1120201111李明.pdf。\n\n注意：第一版的作业题目中第三题的第一个小题修订为：\n\n3：设有下列文法：\n\n 
+	(1)_E_→_E+T|T     _  _T_→_TF|F    _   _F_→(_E_)|_F*|A|B_\n\n第一版的作业题目中第四题的文法
+	修订为：\n\n_R_ →_R_+_R_|_R_×_R_|_R_*|(_R_)|_A_\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230428T133931Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230509T155900Z
+DTEND:20230509T155900Z
+CATEGORIES:编译原理与设计2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3847233@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090504Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230510T010400Z
+DTEND:20230510T010400Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3851056@lexue.bit.edu.cn
+SUMMARY:第四、五部分中央处理器作业，五月十日截止。 已到期
+DESCRIPTION:1、（6-6）某计算机CPU芯片的主振频率为8MHZ，其时钟周期是多少微秒？若已知每个机器周期平均包含四个时钟周期，该机的平均
+	指令执行速度位0.8MIPS，试问：\n\n    ⑴平均指令周期是多少微秒？\n\n    ⑵平均每个指令周期含有多少个机器周期？\n\n    ⑶
+	若改用时钟周期为0.4ΜS的CPU芯片，则计算机的平均指令执行速度又是多少MIPS？\n\n    ⑷若要得到40万次/秒的指令执行速度，应采用主振频
+	率为多少MHZ的CPU芯片？ \n\n2、（6-9） 指令和数据都存放在主存，如何识别从主存储器中取出的是指令还是数据？\n\n3、（6-12） 某计
+	算机的CPU内部结构如图示。两组总线之间的所有数据传送通过ALU。ALU还具有完成以下功能的能力：\n\n     F=A       F=B\n\n
+	     F=A+1     F=B+1\n\n     F=A-1     F=B-1\n\n            写出转子指令（JSR）的取指和
+	执行周期的微操作序列。JSR指令占两个字，第一个字是操作码；第二个字是子程序的入口地址。返回地址保存在存储器堆栈中，堆栈指示器始终指向栈顶。\n\n 
+	\n\n4、（6-20） 某机有8条微指令I1～I8，每条微指令所含的微命令控制信号如下表所示：\n\nA～J分别代表10种不同性质的微命令信号，假设
+	一条微指令的操作控制字段为8位，请安排微指令的操作控制字段格式，并将全部微指令代码化。\n\n 5、（5-1）  假设一条指令的执行过程分为“取指令”
+	、“分析”和“执行”三段，每一段的时间分别为ΔT 、2 ΔT 和3 ΔT 。在以下各种情况下，分别写出连续执行N条指令所需要的时间表达式。\n\n（1
+	）顺序执行方式。\n\n（2）仅“取指令”和“执行”重叠。\n\n（3）“取指令”、“分析”和“执行”重叠。\n\n 6、（5-2）假设指令的解释分取
+	指、分析和执行3步，每步的时间相应为T取指、T分析、T执行，\n\n(1) 分别计算下列几种情况下，执行完100条指令所需时间的一般关系式：\n\n①
+	 顺序方式；\n\n② 仅“执行K”与“取指K+1”重叠；\n\n③ 仅“执行K”、“分析K+1”、“取指K+2”重叠。\n\n(2) 分别在T取指=
+	T分析=2、T执行=1及T取指=T执行=5、T分析=2两种情况下，计算出上述各结果。\n\n 7、（5-3）流水线由4个功能部件组成，每个功能部件的延
+	迟时间为ΔT。当输入10个数据后，间歇5ΔT，又输入10个数据，如此周期性地工作，求此时流水线的吞吐率，并画出时空图。\n\n 8、（5-4 ）图5-
+	57给出了一个非线性流水线。若4条指令依次间隔2ΔT 进入流水线，求出其实际的吞吐率和效率并画出其时－空图。如要加快流水，使流水线每隔2ΔT流出一个结
+	果，应减少哪个流水段本身经过的时间？应减少到多少，流水线方能满足要求？求出此时连续流入4条指令时的实际吞吐率和效率。\n\n \n\n9、（5-5）一
+	条线性流水线由4个流水段组成，每个流水段的延迟时间都相等，都为ΔT 。开始5个ΔT ，每隔一个ΔT 向流水线输入一个任务，然后停顿2个ΔT ，如此重复
+	。求流水线的实际吞吐率、加速比和效率。\n\n 10、（5-6）为提高流水线效率可采用哪两种主要途径来克服速度瓶颈？现有3段流水线，各段经过时间依次为
+	ΔT、3ΔT、ΔT。\n\n (1) 分别计算在连续输入3条指令时和30条指令时的吞吐率和效率。\n\n (2) 按两种途径之一改进，画出流水线结构示
+	意图，同时计算连续输入3条指令和30条指令时的吞吐率和效率。\n\n11、（5-12）一个5段的流水线处理机上需经9拍才能完成一个任务，其预约表见表5
+	-3。\n\n表5-3  预约表\n\n时间\n\n段号\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n9\n
+	\nS1\n\n√\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n√\n\nS2\n\n \n\n√\n\n√\n\n 
+	\n\n \n\n \n\n \n\n \n\n \n\nS3\n\n \n\n \n\n \n\n√\n\n \n\n \n\n√\n\n√\n\n
+	 \n\nS4\n\n \n\n \n\n \n\n√\n\n√\n\n \n\n \n\n \n\n \n\nS5\n\n \n\n \n\n \n
+	\n \n\n \n\n√\n\n√\n\n \n\n \n\n分别写出延迟禁止表F、冲突向量C；画出流水线状态转移图；求出最小平均延迟及流水线的最大
+	吞吐率及其调度方案。按此流水调度方案输入6个任务，求实际吞吐率。\n\n 12、（5-17） 设指令由取指、分析、执行三个子部件组成。每个子部件经过时
+	间为ΔT，连续执行12条指令。请分别画出在常规标量流水处理机及度M均为4的超标量处理机、超长指令字处理机、超流水线处理机上工作的时空图，分别计算它们相
+	对常规标量处理机的加速比SP。\n\n \n\n \n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230516T035203Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230510T160000Z
+DTEND:20230510T160000Z
+CATEGORIES:2023CCA
+END:VEVENT
+BEGIN:VEVENT
+UID:3847229@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090436Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230516T010400Z
+DTEND:20230516T010400Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3847234@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090511Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230517T010500Z
+DTEND:20230517T010500Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3851898@lexue.bit.edu.cn
+SUMMARY:第六部分总线与输入输出系统作业，五月二十日截止。 已到期
+DESCRIPTION:1、假设某计算机地址线有20位，允许寻址的主存空间有多大？假设地址线有32位，允许寻址的主存空间又有多大？若该计算机为字节编址
+	，则允许寻址的主存空间分别为多大？\n\n2、假设总线的工作频率为22MHZ，总线宽度为16位，问总线带宽是多少？\n\n3、PCI总线的时钟频率为3
+	3MHZ/66MHZ，当该总线进行32/64位数据传送时，总线带宽各是多少？\n\n4、某总线时钟频率为66MHZ，在一个64位总线中，总线数据传输的
+	周期是7个时钟周期能传输6个字的数据块。\n\n(1)问总线的数据传输率是多少？\n\n(2)如果不改变数据块的大小，而是将时钟频率减半，问这时总线的
+	数据传输率是多少？\n\n5、程序查询方式、程序中断方式、DMA方式各自适用的范围是什么?下面这些结论正确吗?为什么?\n\n(1) 程序中断方式能提
+	高CPU利用率，所以在设置了中断方式后就没有再应用程序查询方式的必要了。\n\n(2) DMA方式能处理高速外部设备与主存间的数据传送，高速工作性能往
+	往能覆盖低速工作要求，所以DMA方式可以完全取代程序中断方式。\n\n6、假定某机的中断处理方式是：将断点存入00000Q单元，并从77777Q单元取
+	出指令（即中断服务程序的第一条指令）执行。试排出完此功能的中断周期微操作序列，并判断出中断服务程序的第一条指令是何指令(假定主存容量为215个单元)?
+	\n\n7、设某机有5级中断：L0、L1、L2、L3、L4，其中断响应优先次序为：L0最高，L1次之……L4最低。现在要求将中断处理次序改为L1→L3
+	→L0→L4→L2，试问：\n\n(1)各级中断服务程序中的各中断屏蔽码应如何设置（设每级对应一位，当该位为“0”，表示中断允许；当该位为“1”，表示
+	中断屏蔽）？\n\n(2)若这5级同时都发出中断请求，试画出进入各级中断处理过程示意图。\n\n8、在主存接收从磁盘送来的一批信息时：\n(1) 假定
+	主存的周期为1us，若采用程序查询方式传送，试估算在磁盘上相邻两数据字间必须具有的最短允许时间间隔是多少?\n\n(2) 若改为中断方式传送，这个时间
+	又会怎样?是否还有更好的传送方式?\n(3) 在采用更好的传送方式下，假设磁盘上两数据字间的间隔为1US，主存又要被CPU占有一半周期时间，试计算这种
+	情况下主存周期最少应是多少?\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230516T035203Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230520T160000Z
+DTEND:20230520T160000Z
+CATEGORIES:2023CCA
+END:VEVENT
+BEGIN:VEVENT
+UID:3852605@lexue.bit.edu.cn
+SUMMARY:作业上传入口 已到期
+DESCRIPTION:按照结课设计文档模板撰写文档。\n\n将"项目源码（必备）"+"文档（必备）”+“APK（可选）”，打包上传（.zip或.ra
+	r格式）。\n\n截止时间：第13周周日晚23:59\n\n提示：\n\n（1）Android Studio项目的两个build文件夹占用很多空间，不
+	会影响项目编译，可以安全删除，大大减少压缩包的大小。\n\n（2）如果生成的apk太大，导致压缩包超过乐学许可的最大上传尺寸（250M），可以不上传A
+	pk，将其从压缩包中移除。\n\n（3）请认真写好文档，它是判分的主要依据。\n\n（4）注意上传时一定要点击"提交"按钮确认作业提交，不要居于“草稿
+	”模式。\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230510T005518Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230521T155900Z
+DTEND:20230521T155900Z
+CATEGORIES:2022-2023学年第2学期-Android-金旭亮
+END:VEVENT
+BEGIN:VEVENT
+UID:3847230@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090444Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230523T010400Z
+DTEND:20230523T010400Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3847235@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090518Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230524T010500Z
+DTEND:20230524T010500Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3852998@lexue.bit.edu.cn
+SUMMARY:Lab. 6：语义分析实验 已到期
+DESCRIPTION:具体见附件\n
+CLASS:PUBLIC
+LAST-MODIFIED:20230522T095154Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230524T160000Z
+DTEND:20230524T160000Z
+CATEGORIES:编译原理与设计2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3846764@lexue.bit.edu.cn
+SUMMARY:语义处理基本概念小测验 开启
+DESCRIPTION:请从下面各题目中选择合适的答案。\n\n
+CLASS:PUBLIC
+LAST-MODIFIED:20230526T134645Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230526T031100Z
+DTEND:20230526T031100Z
+CATEGORIES:编译原理与设计2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3847002@lexue.bit.edu.cn
+SUMMARY:Chapter 6 Assignments 已到期
+DESCRIPTION:Please submit your assignments for Chapter 6 here. \n\nDue date
+	: 2023-05-28\nFormat: word\nFILE NAMING CONVENTIONS: 你的学号你的姓名你的行政班号-第6章.doc
+	x\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230517T140319Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230528T155900Z
+DTEND:20230528T155900Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3847203@lexue.bit.edu.cn
+SUMMARY:课程论文 (1 份) (Course Paper 1 in total) 已到期
+DESCRIPTION:DUE DATE: 2023-05-28\n\nINDIVIDUAL WORK.\nPlease submit your es
+	say (1 in total) (课程论文，1  份) here.\n\nFORMAT: WORD\nFile naming conventions
+	: 你的学号你的姓名你的行政班号-你的论文名称.docx\n(例如：你的学号你的姓名你的行政班号-下一代互连网.docx)\n注意：不要压缩论文文件。
+	\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230424T101104Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230528T155900Z
+DTEND:20230528T155900Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3847231@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090450Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230530T010400Z
+DTEND:20230530T010400Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+BEGIN:VEVENT
+UID:3852999@lexue.bit.edu.cn
+SUMMARY:Lab. 7：中间代码生成实验 已到期
+DESCRIPTION:具体见附件要求\n
+CLASS:PUBLIC
+LAST-MODIFIED:20230513T082706Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230530T160000Z
+DTEND:20230530T160000Z
+CATEGORIES:编译原理与设计2023
+END:VEVENT
+BEGIN:VEVENT
+UID:3847236@lexue.bit.edu.cn
+SUMMARY:上课 2 ~ 15 周/ 共 16 周
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230226T090528Z
+DTSTAMP:20230529T020802Z
+DTSTART:20230531T010500Z
+DTEND:20230531T010500Z
+CATEGORIES:100071011 计算机网络 (双语) (2020级本科生) 计算机学院 2022-2023-2
+END:VEVENT
+END:VCALENDAR

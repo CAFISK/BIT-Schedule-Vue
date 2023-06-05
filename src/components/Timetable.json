@@ -1,0 +1,86 @@
+[
+  {
+    "day": 1,
+    "courses": [
+      {
+        "courseIndex": 1,
+        "courseName": "高等数学",
+        "courseNo": "06043001",
+        "teacherName": "赵三元",
+        "classNo": "07112004",
+        "roomNo": "综B203",
+        "startTime": "08:00",
+        "endTime": "08:45",
+        "startWeek": 1,
+        "endWeek": 16
+      },
+      {
+        "courseIndex": 2,
+        "courseName": "高等数学",
+        "courseNo": "06043001",
+        "teacherName": "赵三元",
+        "classNo": "07112004",
+        "roomNo": "综B203",
+        "startTime": "08:00",
+        "endTime": "08:45",
+        "startWeek": 1,
+        "endWeek": 16
+      },
+      {
+        "courseIndex": 3,
+        "courseName": "高等数学",
+        "courseNo": "06043001",
+        "teacherName": "赵三元",
+        "classNo": "07112004",
+        "roomNo": "综B203",
+        "startTime": "08:00",
+        "endTime": "08:45",
+        "startWeek": 1,
+        "endWeek": 16
+      },
+      {
+        "courseIndex": 5,
+        "courseName": "大学物理",
+        "courseNo": "07040031",
+        "teacherName": "马波",
+        "classNo": "07112005",
+        "roomNo": "综A207",
+        "startTime": "08:00",
+        "endTime": "08:45",
+        "startWeek": 8,
+        "endWeek": 16
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "courses": [
+      {
+        "courseIndex": 1,
+        "courseName": "高等数学",
+        "courseNo": "06043001",
+        "teacherName": "赵三元",
+        "classNo": "07112004",
+        "roomNo": "综B203",
+        "startTime": "08:00",
+        "endTime": "08:45",
+        "startWeek": 1,
+        "endWeek": 16
+      },
+      {
+        "courseIndex": 3,
+        "courseName": "大学物理",
+        "courseNo": "07040031",
+        "teacherName": "马波",
+        "classNo": "07112005",
+        "roomNo": "综A207",
+        "startTime": "08:00",
+        "endTime": "08:45",
+        "startWeek": 8,
+        "endWeek": 16
+      }
+    ]
+  }
+]
+
+
